@@ -28,7 +28,7 @@ const Service = () => {
           <div className="box">
             <div className="service-icon">📊</div>
             <h3>Logo Design</h3>
-            <p>Designing unique logos that reflect your brand's identity.</p>
+            <p>Designing unique logos that reflect your brand&apos;s identity.</p>
           </div>
 
           <div className="box">
